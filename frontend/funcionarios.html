@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Cadastro de Funcionários</title>
+  <link rel="stylesheet" href="../style.css">
+  <script src="../backend/script.js" defer></script>
+</head>
+<body>
+  <h2>Cadastro de Funcionários</h2>
+  <form id="formFuncionario">
+    <label>Nome Completo:</label>
+    <input type="text" id="nomeFuncionario" required>
+    
+    <label>CPF:</label>
+    <input type="text" id="cpfFuncionario" required placeholder="000.000.000-00">
+    
+    <label>Cargo:</label>
+    <select id="cargoFuncionario">
+        <option value="Vendedor">Vendedor</option>
+        <option value="Gerente">Gerente</option>
+        <option value="Estoquista">Estoquista</option>
+    </select>
+    
+    <label>E-mail:</label>
+    <input type="email" id="emailFuncionario" required>
+    
+    <label>Data de Admissão:</label>
+    <input type="date" id="dataAdmissao" required>
+    
+    <button type="submit">Cadastrar Funcionário</button>
+  </form>
+  <a href="index.html">Voltar à página inicial</a>
+</body>
+</html>
