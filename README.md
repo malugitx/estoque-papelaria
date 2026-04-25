@@ -44,10 +44,10 @@ Cada formulário possui uma lógica adicional executada pelo servidor:
 
 * **Pedidos de Compra:** Estimativa de prazo de entrega (5 dias úteis).
 
-#Grupo de Desenvolvimento
+# Grupo de Desenvolvimento
 **Felicia da Trindade Justino - RA: 5166921 (Branch: branch-aluno-2).**
 
 **Maria Luiza Souza Silva - RA: 5169930 (Branch: branch-aluno-1).**
 
 
-# **Trabalho acadêmico para o Momento I - Data de Entrega: 24/04/2026.**
+**Trabalho acadêmico para o Momento I - Data de Entrega: 24/04/2026.**
